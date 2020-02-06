@@ -9,7 +9,7 @@
 
 name: OpenWrt-X64
 
-on:
+#on:
   push:
     branches: 
       - master
